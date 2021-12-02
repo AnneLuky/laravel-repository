@@ -16,7 +16,8 @@
         }
     ],
     "require": {
-        "php": "^7.3|^8.1"
+        "php": "^7.3|^8.0",
+        "laravel": ">=6"
     },
     "extra": {
         "laravel": {
