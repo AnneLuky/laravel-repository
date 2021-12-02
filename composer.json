@@ -1,0 +1,21 @@
+{
+    "name": "laradocs/laravel-repository",
+    "description": "",
+    "keywords": [ "laravel", "repository", "laravel-repository" ],
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Laradocs\\Repository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "laradocs",
+            "email": "75692074@qq.com"
+        }
+    ],
+    "require": {
+        "php": "^7.3|^8.1"
+    }
+}
