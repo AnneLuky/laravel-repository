@@ -17,5 +17,12 @@
     ],
     "require": {
         "php": "^7.3|^8.1"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Laradocs\\Repository\\RepositoryServiceProvider"
+            ]
+        }
     }
 }
