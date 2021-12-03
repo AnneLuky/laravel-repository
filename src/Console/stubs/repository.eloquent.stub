@@ -1,0 +1,10 @@
+<?php
+
+namespace {{ namespace }};
+
+use App\Repositories\{{ ModelName }}Repository;
+
+class {{ class }} implements {{ ModelName }}Repository
+{
+    //
+}
